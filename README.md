@@ -13,4 +13,6 @@
 
 [TP - My education](https://leobjorkman.github.io/hobbies/TP-MyBachelorsDegree.html)
 
+[Leidipage](https://leobjorkman.github.io/hobbies/FRIDELINA.html)
+
 [Leidipage](https://leobjorkman.github.io/hobbies/leidipage.html)
